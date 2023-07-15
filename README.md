@@ -91,3 +91,4 @@ The issue with having these different characters defining different components, 
 ## Author
 
 Written by Brendan Bowen, a student in the 2023 Carleton University FullStack Coding Bootcamp. For more information, visit https://github.com/beerendan
+https://gist.github.com/beerendan/4d3dcb7654d74db8ba0cab485bbb5860.js
